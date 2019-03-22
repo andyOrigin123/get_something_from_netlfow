@@ -8,6 +8,6 @@ format of date that can be accepted as follows:
 20190101 20190102 or like them
 
 
-In this part, i get something what i need with shell in ubuntu, which combines cmds of nfdump, awk, date and so on.
+In this part, i get something what i need with shell in ubuntu 18.04, and this shell script combines cmds of nfdump, awk, date and so on.
 Second，they can work well in situatinos of mine. 
 Last but not least, if you find any errors in them , please connact me via 220174285@seu.edu.cn! Thanks for reading!
