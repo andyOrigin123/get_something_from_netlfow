@@ -1,5 +1,5 @@
 # get_something_from_netlfow
-First, i am sorry about some chinese comments in src if you are not chinese!
+First, i am sorry about some chinese comments in src if you are not a chinese!
 
 This script can get something from data of type of netflow in periods!
 It need two paramenters, one is start of time, another is end of time
